@@ -13,6 +13,7 @@ const SECTORS = [
     ["ToolVerse US", "https://toolverseus.com/", "Collection of 1000+ free online tools — text, PDF, image, dev, calculators.", false],
     ["Stock Average Calculator", "https://stockavg.com/", "Share cost basis, averaging down, dividend, profit and CAGR calculators, calculations run client-side in the browser.", true],
     ["Utilia", "https://utilia-gratis.adriano-aimar12.workers.dev/", "Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.", false],
+    ["kdpbook.io Word Search Maker", "https://kdpbook.io/kdp/word-search-maker", "Makes a printable word search from your own words or a theme, 8×8 to 22×22 grid, with the answer key on its own page, runs client-side in the browser.", true],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.", false],
