@@ -57,6 +57,7 @@ const SECTORS = [
     ["PDF24 Tools", "https://tools.pdf24.org/en/", "Merges, splits, compresses, and converts PDFs (files are processed on PDF24's servers and deleted shortly after).", false],
     ["TryQuickImg", "https://tryquickimg.com/", "HEIC to JPG, compress to a KB target, resize, crop, and QR tools; image processing runs client-side in the browser.", true],
     ["AVIF to JPG Converter", "https://nutilz.com/avif-to-jpg", "Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, runs entirely client-side in the browser.", true],
+    ["Image to ASCII", "https://imagetoascii.art/", "Converts images to ASCII art with adjustable styles and TXT, PNG, or SVG export, with image processing in the browser.", false],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
