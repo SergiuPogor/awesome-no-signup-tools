@@ -21,6 +21,7 @@ const SECTORS = [
     ["JSONLint", "https://jsonlint.com/", "Validates and reformats JSON.", false],
     ["Can I Use", "https://caniuse.com/", "Browser support tables for HTML5, CSS3, and other web technologies.", false],
     ["TryDevSnip", "https://trydevsnip.com/", "JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser; processing stays client-side.", true],
+    ["QuickTiny", "https://quicktinyv2.vercel.app/", "Detects pasted JSON, Base64, encoded URLs, timestamps, or lists and routes to the matching tool among 13 free browser utilities; processing runs client-side.", true],
   ]},
   { id: "design", label: "Design", tools: [
     ["Photopea", "https://www.photopea.com/", "Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, files processed client-side.", true],
