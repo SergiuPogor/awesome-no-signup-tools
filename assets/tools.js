@@ -39,6 +39,7 @@ const SECTORS = [
     ["Naratake Free Business Tools", "https://naratake.com/en/tools", "35 tools for small businesses covering QR codes, printable signs, menus, and pricing calculators, runs client-side in the browser.", true],
     ["Drag Task", "https://drag-task.web.app/demo", "Calendar-shaped to-do list for adding tasks to days and dragging them to reschedule; the no-signup demo stores data only in the open tab.", false],
     ["OutilCalcul", "https://outilcalcul.com", "Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations).", false],
+    ["Aulify Gerador de Horários", "https://aulify.pt/gerador-de-horarios/", "School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, data is kept in the browser's local storage.", false],
   ]},
   { id: "privacy", label: "Privacy", tools: [
     ["SSL Server Test", "https://www.ssllabs.com/ssltest/", "Deep analysis of a domain's SSL/TLS configuration by Qualys.", false],
