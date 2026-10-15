@@ -44,6 +44,7 @@ const SECTORS = [
     ["OutilCalcul", "https://outilcalcul.com", "Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations).", false],
     ["Aulify Gerador de Horários", "https://aulify.pt/gerador-de-horarios/", "School timetable builder with a Portuguese interface that handles teacher availability, specialised rooms and continuous blocks and flags conflicts, data is kept in the browser's local storage.", false],
     ["Tanzhang", "https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en", "Free calculator for one market event’s operating surplus from net receipts, sold-product costs, losses and expenses; CNY only, with no tax calculation or dedicated export.", false],
+    ["Drible Sign PDF", "https://drible.co/pdf/sign", "Adds a drawn, typed or uploaded signature, dates and text to a PDF and downloads a signed copy of the same document, runs client-side in the browser.", true],
   ]},
   { id: "privacy", label: "Privacy", tools: [
     ["SSL Server Test", "https://www.ssllabs.com/ssltest/", "Deep analysis of a domain's SSL/TLS configuration by Qualys.", false],
